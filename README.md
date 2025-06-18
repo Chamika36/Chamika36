@@ -15,7 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-(https://medium.com/@chamikamadhushan/object-oriented-programming-in-java-cd75647b2310)
+[How I Made Ballerina Query Expressions 10x Faster](https://medium.com/ballerina-techblog/how-i-made-ballerina-query-expressions-10x-faster-8437b28e1993)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
