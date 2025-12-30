@@ -23,6 +23,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Made Ballerina Query Expressions 10x Faster](https://medium.com/ballerina-techblog/how-i-made-ballerina-query-expressions-10x-faster-8437b28e1993)
+- [Fitting a Whale in a Bathtub: How I Fine-Tuned Llama-2 on a T4 GPU](https://medium.com/@chamikamadhushan/how-i-fine-tuned-llama-2-on-a-free-gpu-a06983232064)
 - [Ballerina Compiler Internals I — Overview](https://medium.com/ballerina-techblog/ballerina-compiler-internals-i-overview-97fff89a5fd6)
 - [No Longer Sci-Fi: How “Her (2013)” Became Reality in a Decade](https://medium.com/@chamikamadhushan/no-longer-sci-fi-how-her-2013-became-reality-in-a-decade-825efe73123c)
 <!-- BLOG-POST-LIST:END -->
